@@ -1,7 +1,7 @@
 # ISMWW-SupplyChainAnalytics
 
 ## Description
-Want to learn more about supply chain analytics and get hands-on experience with powerful open-source tools? Join us on September 29th for our first Technology Workshop in Bellevue, WA. We will walk through the installation and basic operation of R and Python, then dive into examples including forecasting, classification and network optimization. Along the way we will introduce other powerful tools including Git, MySQL and Apache Spark. This will be a hands-on learning experience, so bring your laptop!
+Talk given for the Institute for Supply Management, Western Washington (ISM-WW) chapter Emerging Professionals Technology Workshop series on September 29, 2016. We walk through the installation and basic operation of R and Python, then dive into examples including forecasting, clustering, classification and network optimization.
 
 
 ## Author
