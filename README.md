@@ -14,21 +14,21 @@ Prior to zulily, Kellen was Lead Demand Planning Analyst in the aftermarket part
 Kellen holds an M.S. in Applied Mathematics from the University of Washington where he specialized in operations research and computational methods for data analysis. Currently, he is pursuing a second M.S. in Global Supply Chain Management from Portland State University with an interest in analytics and global supply chain dynamics.
 
 
-## R installation
+## R Installation
 Make sure you are using the latest version of R (3.3.1)
 For Mac OSX ... http://cran.fhcrc.org/bin/macosx/R-3.3.1.pkg
 For Windows ... http://cran.fhcrc.org/bin/windows/base/R-3.3.1-win.exe
 After the download completes, launch the installer and follow the instructions.
 
 
-## RStudio installation
+## RStudio Installation
 Make sure you are using the latest version of RStudio (0.99.903)
 For Mac OSX ... https://download1.rstudio.org/RStudio-0.99.903.dmg
 For Windows ... https://download1.rstudio.org/RStudio-0.99.903.exe
 After the download completes, launch the installer and follow the instructions
 
 
-## R packages to install
+## R Packages to Install
 Open RStudio and in the console paste each of these lines and press enter
 Start with the first line and wait for the package to finish installing before running the next
 If it prompts you with a question ("Do you want to install from sources the package which needs compilation?") ... type n and press enter
